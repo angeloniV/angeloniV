@@ -2,8 +2,6 @@
 
 <h1>Hola visitante, soy angeloniV. Bienvenido a mi perfil.</h1>
 
-<img src="https://komarev.com/ghpvc/?username=angeloniV&color=blue" alt="watching_count" />
-
 <i>Seguime en toda la web:</i><br>
 
 <a href="valentinangeloni@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Spotify"></a>
