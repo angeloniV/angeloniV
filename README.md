@@ -34,7 +34,7 @@
 
 ![JPA](https://img.shields.io/badge/-JPA-gray)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-white)
-![Spring Data](https://img.shields.io/badge/-Spring Data-blue)
+![Spring Data](https://img.shields.io/badge/-Spring%20Data-green)
 ![QueryDSL](https://img.shields.io/badge/-QueryDSL-blue)
 ![Criteria](https://img.shields.io/badge/-Criteria-black)
 
