@@ -32,6 +32,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
+![JPA] (https://img.shields.io/badge/-JPA-gray)
+![Hibernate] (https://img.shields.io/badge/-Hibernate-white)
+![Spring Data] (https://img.shields.io/badge/-QueryDSL-blue)
+![QueryDSL] (https://img.shields.io/badge/-QueryDSL-blue)
+![Criteria] (https://img.shields.io/badge/-Criteria-black)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
