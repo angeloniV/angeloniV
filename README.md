@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Hola visitante, soy angeloniV. Bienvenido a mi perfil.</h1>
+<h1>Hola !soy angeloniV. Bienvenido a mi perfil.</h1>
 
 <i>Seguime en toda la web:</i><br>
 
