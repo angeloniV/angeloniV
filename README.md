@@ -2,7 +2,7 @@
 
 <h1>Hola !soy angeloniV. Bienvenido a mi perfil.</h1>
 
-<i>Seguime en toda la web:</i><br>
+<i>Contacto</i><br>
 
 <a href="valentinangeloni@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Spotify"></a>
 <a href="https://www.linkedin.com/in/valentin-angeloni-b06a7554/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
